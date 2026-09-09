@@ -1,6 +1,6 @@
 # Cache files, generates by Zephir
 .temp/
-.libs/
+.bs/
 
 # Object files, generates by linker
 *.lo
